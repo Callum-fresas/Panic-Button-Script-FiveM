@@ -2,7 +2,7 @@
 --[[
 As mentioned in the readme and the resource, this is my first script - a Panic Button script. If you see any faults, let me know! 
 
-Orginally From - aka-lucifer and Vespra
+Orginally From - aka-lucifer, Vespera and Austin Grandpre
 Edited By - Harvey
 Created - 01-22-2019
 
